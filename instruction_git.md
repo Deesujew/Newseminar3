@@ -62,4 +62,7 @@
 
     git checkout <hash>
 
+Для возврата на ветку МАСТЕР необходимо использовать команду:
+
+    git checkout master
     
